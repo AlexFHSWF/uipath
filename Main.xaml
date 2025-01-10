@@ -251,7 +251,7 @@
       <x:Boolean x:Key="ShouldCollapseAll">True</x:Boolean>
     </scg:Dictionary>
   </sap:WorkflowViewStateService.ViewState>
-  <ueab:SequenceX DisplayName="Single Excel Process Scope" sap:VirtualizedContainerService.HintSize="1103,749" sap2010:WorkflowViewState.IdRef="SequenceX_1">
+  <ueab:SequenceX DisplayName="Single Excel Process Scope" sap:VirtualizedContainerService.HintSize="1103,863" sap2010:WorkflowViewState.IdRef="SequenceX_1">
     <ueab:SequenceX.Variables>
       <Variable x:TypeArguments="ue:IWorkbookQuickHandle" Default="[new WorkbookQuickHandle(workbookPath:=&quot;Project_Notebook.xlsx&quot;,visible:=True,autoSave:=False,createNew:=True,readOnly:=False,isWorkspace:=True)]" Name="Hinweise" />
       <Variable x:TypeArguments="x:String" Name="PDFStartpunkt" />
@@ -765,6 +765,7 @@
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
     </uix:NApplicationCard>
+    <ui:InputDialog Label="{x:Null}" Options="{x:Null}" OptionsString="{x:Null}" Result="{x:Null}" Title="{x:Null}" DisplayName="Input Dialog" sap:VirtualizedContainerService.HintSize="416,57" sap2010:WorkflowViewState.IdRef="InputDialog_2" IsPassword="False" />
     <ui:TextToLeftRight CustomSeparatorEnabled="False" DisplayName="Text to Left/Right" FullText="[BesteRouteDistanzText]" sap:VirtualizedContainerService.HintSize="416,271" sap2010:WorkflowViewState.IdRef="TextToLeftRight_3" Separator=" " SeparatorKey="Space" TextToLeft="[Dauer]" TextToRight="[Strecke]">
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
@@ -860,7 +861,7 @@
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
     </uix:NApplicationCard>
-    <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Edge Dienstreise_Reisekostenrechnung_ab_01-14" sap:VirtualizedContainerService.HintSize="416,48" sap2010:WorkflowViewState.IdRef="NApplicationCard_12" InteractionMode="DebuggerApi" ScopeGuid="f23b1893-f87f-4d4f-8cf5-934f3820685f" Version="V2">
+    <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Edge Dienstreise_Reisekostenrechnung_ab_01-14" sap:VirtualizedContainerService.HintSize="416,57" sap2010:WorkflowViewState.IdRef="NApplicationCard_12" InteractionMode="DebuggerApi" ScopeGuid="f23b1893-f87f-4d4f-8cf5-934f3820685f" Version="V2">
       <uix:NApplicationCard.Body>
         <ActivityAction x:TypeArguments="x:Object">
           <ActivityAction.Argument>
@@ -969,5 +970,6 @@
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
     </uix:NApplicationCard>
+    <ui:InputDialog Label="{x:Null}" Options="{x:Null}" OptionsString="{x:Null}" Result="{x:Null}" Title="{x:Null}" DisplayName="Input Dialog" sap:VirtualizedContainerService.HintSize="416,48" sap2010:WorkflowViewState.IdRef="InputDialog_1" IsPassword="False" />
   </ueab:SequenceX>
 </Activity>
