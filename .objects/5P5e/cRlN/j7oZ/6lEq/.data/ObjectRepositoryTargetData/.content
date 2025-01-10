@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="8FJK0wKL5kGL5QfNmKAeoA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/111Q3cPZa5nPBCSaw9gkdhvBGSlSqJgBI5r9_CI4oVck/edit" CVScreenId="94407bb9-0eed-4ffe-a8b7-ccc0d217c31c" CvTextArea="721, 934, 169, 12" CvType="AnyWordGroup" DesignTimeRectangle="723, 933, 480, 14" DesignTimeScaleFactor="0.6666666865348816" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aria-label='Beschreiben Sie den Dienst.' aria-role='textbox' tag='DIV' type='' class='q4tvle JqSWld yqQS1' /&gt;" Guid="3356fc4a-245e-4450-b844-e2ecfb57d648" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ReisekostenTest - Google Formulare' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="94407bb9-0eed-4ffe-a8b7-ccc0d217c31c" CvTextArea="722, 907, 133, 11" CvTextArgument="Beschreiben Sie den Dienst." CvType="Text" DesignTimeRectangle="723, 906, 132, 16" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Beschreiben Sie den Dienst.' parentid='i5' tag='SPAN' type='' class='M7eMe' check:innerText='Beschreiben Sie den Dienst.' /&gt;" Guid="fb7280b7-dd72-4294-b6b3-cd15799b6d67" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="319b88c9c709324e6a0dca402f211298.png" xmlns="">0M9LQJ6YiZ0W1z77JsvL75Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

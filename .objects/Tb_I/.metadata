@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Dienstreise_Reisekostenrechnung_ab_01-14.pdf",
+  "Type": "App",
+  "Id": "Tb_IqmVlf0SSz_1Akd-RNg",
+  "Reference": "AAo3amNqvU627QXHmMDKNg/Tb_IqmVlf0SSz_1Akd-RNg",
+  "Created": "2024-11-10T16:39:21.7996142Z",
+  "Updated": "2024-11-10T16:39:21.7996142Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

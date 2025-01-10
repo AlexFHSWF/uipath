@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Google Maps",
+  "Type": "Screen",
+  "Id": "YEX5-Cg-DEO1OmYZEAi99g",
+  "Reference": "AAo3amNqvU627QXHmMDKNg/YEX5-Cg-DEO1OmYZEAi99g",
+  "ParentRef": "AAo3amNqvU627QXHmMDKNg/Crl7Awd1vkSbTlDqSwhKhg",
+  "Created": "2024-11-07T19:02:44.8922887Z",
+  "Updated": "2024-11-07T19:02:44.8922887Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

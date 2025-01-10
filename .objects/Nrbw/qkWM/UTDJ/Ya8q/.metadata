@@ -1,0 +1,14 @@
+﻿{
+  "Name": "0 Scientific Basic Hist…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Ya8qXyxwY0KK4E4a5pDbjQ",
+  "Reference": "AAo3amNqvU627QXHmMDKNg/Ya8qXyxwY0KK4E4a5pDbjQ",
+  "ParentRef": "AAo3amNqvU627QXHmMDKNg/UTDJ839fm0Wsh17HATzq6Q",
+  "Created": "2024-11-10T16:23:20.396418Z",
+  "Updated": "2024-11-10T16:23:20.396418Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

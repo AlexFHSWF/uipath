@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Von wo aus sind Sie ges…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "xAwxF7WKZk2sr3jRVmTRCQ",
+  "Reference": "AAo3amNqvU627QXHmMDKNg/xAwxF7WKZk2sr3jRVmTRCQ",
+  "ParentRef": "AAo3amNqvU627QXHmMDKNg/j7oZHqPujEGNeJsZfl0txg",
+  "Created": "2024-11-13T17:40:34.261307Z",
+  "Updated": "2024-11-13T17:40:34.261307Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

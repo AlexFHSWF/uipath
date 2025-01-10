@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="NuR7j_fT9E2_YVZqZ8TLVA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/111Q3cPZa5nPBCSaw9gkdhvBGSlSqJgBI5r9_CI4oVck/edit" CVScreenId="94407bb9-0eed-4ffe-a8b7-ccc0d217c31c" CvElementArea="720, 740, 244, 26" CvType="InputBox" DesignTimeRectangle="723, 751, 240, 14" DesignTimeScaleFactor="0.6666666865348816" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aria-label='Um wie viel Uhr sind Sie losgefahren?' aria-role='textbox' tag='DIV' type='' class='Mh5jwe JqSWld yqQS1' /&gt;" Guid="b20f8c54-9926-49ef-9186-4de2bcc770da" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ReisekostenTest - Google Formulare' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="94407bb9-0eed-4ffe-a8b7-ccc0d217c31c" CvTextArea="722, 725, 178, 13" CvTextArgument="Um wie viel Uhr sind Sie losgefahren?" CvType="Text" DesignTimeRectangle="723, 724, 177, 16" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' class='M7eMe' isleaf='1' parentid='i5' tag='SPAN' aaname='Um wie viel Uhr sind Sie losgefahren?' check:innerText='Um wie viel Uhr sind Sie losgefahren?' /&gt;" Guid="93eac7cc-502e-4192-9b45-7a29fd04ca8d" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="17aa729d1cece91b8047437a7afe10dd.png" xmlns="">0QVQ5OT7y4EKm2trGTfd6Fg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

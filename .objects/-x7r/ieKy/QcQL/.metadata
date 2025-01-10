@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome calculator at DuckDuckGo",
+  "Type": "Screen",
+  "Id": "QcQLdEs1FkaLuhhXqIBF4A",
+  "Reference": "AAo3amNqvU627QXHmMDKNg/QcQLdEs1FkaLuhhXqIBF4A",
+  "ParentRef": "AAo3amNqvU627QXHmMDKNg/ieKylgWMw0W4yoK7TfGNRg",
+  "Created": "2024-11-10T16:22:22.3259066Z",
+  "Updated": "2024-11-10T16:22:22.3259066Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

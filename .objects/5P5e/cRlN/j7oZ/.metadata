@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome ReisekostenTest - Google Formulare",
+  "Type": "Screen",
+  "Id": "j7oZHqPujEGNeJsZfl0txg",
+  "Reference": "AAo3amNqvU627QXHmMDKNg/j7oZHqPujEGNeJsZfl0txg",
+  "ParentRef": "AAo3amNqvU627QXHmMDKNg/cRlNn0Y7pEaDavJFBMgKVQ",
+  "Created": "2024-11-13T17:35:50.0161503Z",
+  "Updated": "2024-11-13T17:35:50.0161503Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

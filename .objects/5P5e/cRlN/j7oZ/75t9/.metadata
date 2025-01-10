@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Um wie viel Uhr sind Si…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "75t9EM8u8k69nl9ATtX96Q",
+  "Reference": "AAo3amNqvU627QXHmMDKNg/75t9EM8u8k69nl9ATtX96Q",
+  "ParentRef": "AAo3amNqvU627QXHmMDKNg/j7oZHqPujEGNeJsZfl0txg",
+  "Created": "2024-11-13T17:46:30.5101344Z",
+  "Updated": "2024-11-13T17:46:30.5101344Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

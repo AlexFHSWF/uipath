@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Beschriftung(1)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "DyzHb6MQTUGAFN5SBR8g2g",
+  "Reference": "AAo3amNqvU627QXHmMDKNg/DyzHb6MQTUGAFN5SBR8g2g",
+  "ParentRef": "AAo3amNqvU627QXHmMDKNg/YEX5-Cg-DEO1OmYZEAi99g",
+  "Created": "2024-11-07T19:07:20.147582Z",
+  "Updated": "2024-11-07T19:07:20.147582Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

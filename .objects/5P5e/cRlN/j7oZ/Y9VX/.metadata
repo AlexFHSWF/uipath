@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Wann sind Sie zurückgek…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Y9VXfPWVXU2nNBAshmHxyA",
+  "Reference": "AAo3amNqvU627QXHmMDKNg/Y9VXfPWVXU2nNBAshmHxyA",
+  "ParentRef": "AAo3amNqvU627QXHmMDKNg/j7oZHqPujEGNeJsZfl0txg",
+  "Created": "2024-11-13T17:46:07.6814834Z",
+  "Updated": "2024-11-13T17:46:07.6814834Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Wann sind Sie gereist",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "9BOzSQtRUUqVKmCl57RSTA",
+  "Reference": "AAo3amNqvU627QXHmMDKNg/9BOzSQtRUUqVKmCl57RSTA",
+  "ParentRef": "AAo3amNqvU627QXHmMDKNg/j7oZHqPujEGNeJsZfl0txg",
+  "Created": "2024-11-13T17:41:29.1429198Z",
+  "Updated": "2024-11-13T17:41:29.1429198Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

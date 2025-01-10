@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="wGk45mTJQkGTchjCRnoCAQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.de/maps/@51.3867776,7.3859072,13z" CVScreenId="6b0298b0-2114-4b4f-a018-b5a4d629e5dd" CvTextArea="119, 174, 148, 14" CvTextArgument="In Google Maps suchen" CvType="Text" DesignTimeRectangle="120, 170, 246, 24" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='searchboxinput' tag='INPUT' type='' class='fontBodyMedium searchboxinput xiQnY ' aaname='In Google Maps suchen' /&gt;" Guid="883a162c-1c07-42c0-97d6-b3f492c6a42f" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Google Maps' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6b0298b0-2114-4b4f-a018-b5a4d629e5dd" CvTextArea="119, 174, 148, 14" CvTextArgument="In Google Maps suchen" CvType="Text" DesignTimeRectangle="120, 170, 246, 26" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='z1Srse fontBodyMedium' aaname='In Google Maps suchen' check:innerText='In Google Maps suchen' /&gt;" Guid="7027a752-fe59-40ac-9283-8e7b049c3923" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="04f087390b7c6a3a274115086155be86.png" xmlns="">0D7wJELKBjUOaZal8gPPQWA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

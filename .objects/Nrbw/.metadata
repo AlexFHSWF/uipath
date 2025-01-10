@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome calculator at DuckDuckGo(1)",
+  "Type": "App",
+  "Id": "NrbwwI20fEqqTH3r0Q1Xyw",
+  "Reference": "AAo3amNqvU627QXHmMDKNg/NrbwwI20fEqqTH3r0Q1Xyw",
+  "Created": "2024-11-10T16:23:19.8964264Z",
+  "Updated": "2024-11-10T16:23:19.8964264Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

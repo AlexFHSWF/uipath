@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Beste RouteBeste Route",
+  "Type": "Element",
+  "Id": "DWXwl0EzakSK5T3LoiBvhQ",
+  "Reference": "AAo3amNqvU627QXHmMDKNg/DWXwl0EzakSK5T3LoiBvhQ",
+  "ParentRef": "AAo3amNqvU627QXHmMDKNg/YEX5-Cg-DEO1OmYZEAi99g",
+  "Created": "2024-11-07T19:11:33.9192422Z",
+  "Updated": "2024-11-07T19:11:33.9192422Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

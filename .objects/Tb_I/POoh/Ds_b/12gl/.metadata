@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Hagen",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "12gljZ2uqkGZo4kDagKgFg",
+  "Reference": "AAo3amNqvU627QXHmMDKNg/12gljZ2uqkGZo4kDagKgFg",
+  "ParentRef": "AAo3amNqvU627QXHmMDKNg/Ds_bTJvZQkS3DVMnQhBxgg",
+  "Created": "2024-11-10T17:42:56.9739746Z",
+  "Updated": "2024-11-10T17:42:56.9739746Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

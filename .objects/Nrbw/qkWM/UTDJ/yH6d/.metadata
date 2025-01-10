@@ -1,0 +1,14 @@
+﻿{
+  "Name": "10  0.35 3.5 Scientifi…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "yH6dRtwO8kyqSzvfBknL5Q",
+  "Reference": "AAo3amNqvU627QXHmMDKNg/yH6dRtwO8kyqSzvfBknL5Q",
+  "ParentRef": "AAo3amNqvU627QXHmMDKNg/UTDJ839fm0Wsh17HATzq6Q",
+  "Created": "2024-11-10T16:29:12.3564995Z",
+  "Updated": "2024-11-10T16:29:12.3564995Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

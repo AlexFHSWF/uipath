@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="QSogLoNX0EaBChx08G_n-w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.de/maps/@51.3867776,7.3859072,13z" CVScreenId="6b0298b0-2114-4b4f-a018-b5a4d629e5dd" CvElementArea="382, 171, 25, 23" CvType="Icon" DesignTimeRectangle="382, 171, 24, 24" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='searchbox-searchbutton' tag='SPAN' type='' class='google-symbols' aaname='' check:innerText='' /&gt;" Guid="498492bf-2388-4c61-802a-268fe2c4b33a" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFeSURBVEhL7ZXLSsNAGIV9ZC+01VSNWBdZZFFUFCsVo0WfQZAiPoKiImpRW7eJFSoNCTn2DCNYkyYzGqqLfhCS/P+ZfLlOpjBmJsLc+V/CKIpwd/+Aje0aCoaJ6YIh1txnnX1dRgp934fTOMZMsSxE3xfW2WdOh0RhEATYPzwSBy6VV9A8O0ev9y56XHOfdfaZY16VROHF5RXm5pewsLw6uHUtWR2GdfaZY16VmDAMQ+zUHXH2J6dNWU2GfeaY5zgVYsJu9w1rlg3DrKDdeZHVZNhnjnmOUyEmdD0PZsUSC7fT0Ml+8vdX+JNnWHcayt9kTEh03tLiYCK4vrmV1WwShTrfoWVX4bpqz48kCknWTDNbWhRXx227ugnPe5Uj0xkpJGlz6XO7IySU6UhThSroSn8tJDrSXIREVZqbkHyVrm/V0O/Hf125Cgmlu3sHaD0+ycowuQuzmAhzZ8xC4ANOYKYNG6fRYwAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Google Maps' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="370, 159, 48, 52" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='searchbox-searchbutton' tag='BUTTON' type='' class='mL3xi' aaname='' check:innerText='' /&gt;" Guid="f2cfa9da-923b-4b85-8dec-8e498f626f14" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b6cb666135c9c58d294bc487506d0524.png" xmlns="">0-OoIZYIiGUigT5rFMZdLYQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

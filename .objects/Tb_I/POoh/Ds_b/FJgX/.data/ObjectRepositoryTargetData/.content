@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4neeqTzmbESeocKuida3uQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="" CVScreenId="7d38d427-04cb-438c-bc47-01f7298fc96f" CvTextArea="168, 526, 38, 10" CvTextArgument="Adresse:" CvType="Text" DesignTimeRectangle="168, 526, 38, 10" DesignTimeScaleFactor="1" ElementType="Text" Guid="443a9882-47a8-4b9d-9d2e-843f639cf7a1" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Dienstreise_Reisekostenrechnung_ab_01-14.pdf' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="7d38d427-04cb-438c-bc47-01f7298fc96f" CvTextArea="106, 526, 31, 10" CvTextArgument="Datum:" CvType="Text" DesignTimeRectangle="106, 526, 31, 10" ElementType="Text" Guid="cf39a644-355e-4486-962a-afdf89488a67" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="63d3caab3059e9057707e22556609451.png" xmlns="">0u3vvG4l3qkWmwjiAzFIDaA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="YFOQeoyNkkiE_e9YhGPbxg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/111Q3cPZa5nPBCSaw9gkdhvBGSlSqJgBI5r9_CI4oVck/edit" CVScreenId="94407bb9-0eed-4ffe-a8b7-ccc0d217c31c" CvTextArea="749, 661, 23, 10" CvType="AnyWordGroup" DesignTimeRectangle="723, 660, 240, 14" DesignTimeScaleFactor="0.6666666865348816" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aria-label='Wann sind Sie zurückgekehrt?(Datum)' aria-role='textbox' tag='DIV' type='' class='Mh5jwe JqSWld yqQS1' /&gt;" Guid="83e4fb56-abe0-4522-a1dc-0bfc4fe58d28" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ReisekostenTest - Google Formulare' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="94407bb9-0eed-4ffe-a8b7-ccc0d217c31c" CvTextArea="722, 633, 182, 14" CvTextArgument="Wann sind Sie zurückgekehrt?(Datum)" CvType="Text" DesignTimeRectangle="723, 633, 181, 16" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' class='M7eMe' isleaf='1' parentid='i5' tag='SPAN' aaname='Wann sind Sie zurückgekehrt?(Datum)' check:innerText='Wann sind Sie zurückgekehrt?(Datum)' /&gt;" Guid="12a308ca-f5af-4c8d-8066-9fec282b16d6" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b14c3aa099c5579c5cdbd81d49f73d6c.png" xmlns="">0GIQOtikYcUGgvpy6Elr9yA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Schaltfläche",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "Mw7DAec7MkKQBc7qfBifVw",
+  "Reference": "AAo3amNqvU627QXHmMDKNg/Mw7DAec7MkKQBc7qfBifVw",
+  "ParentRef": "AAo3amNqvU627QXHmMDKNg/Ds_bTJvZQkS3DVMnQhBxgg",
+  "Created": "2024-11-10T18:05:51.6888235Z",
+  "Updated": "2024-11-10T18:05:51.6888235Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

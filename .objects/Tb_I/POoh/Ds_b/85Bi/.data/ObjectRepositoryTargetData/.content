@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6uQAFTh4jUC8vygaI8-yGg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="" CVScreenId="9b19cfa7-6545-4cc0-b4b6-aa59928b3052" CvElementArea="418, 607, 88, 19" CvType="InputBox" DesignTimeRectangle="418, 607, 88, 19" DesignTimeScaleFactor="1" ElementType="InputBox" Guid="687c84a6-aad2-4458-b9da-a58fcdbdabe3" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Dienstreise_Reisekostenrechnung_ab_01-14.pdf - Profil 1 – Micros*' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9b19cfa7-6545-4cc0-b4b6-aa59928b3052" CvTextArea="180, 611, 233, 13" CvTextArgument="Die Dienstreise wurde angeordnet/genehmigt am" CvType="Text" DesignTimeRectangle="180, 611, 233, 13" ElementType="Text" Guid="00e4bb7d-4797-4310-bdb2-a190bdb03dcb" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="fb9dc02596bf32c5fc628ceb014ea902.png" xmlns="">0rdVoqXonJEOXzo7z03VauQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

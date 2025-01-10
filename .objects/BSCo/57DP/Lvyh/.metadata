@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Dienstreise_Reisekostenrechnung_Workshop",
+  "Type": "Screen",
+  "Id": "LvyhMENC1E6JsDKTFtvabA",
+  "Reference": "AAo3amNqvU627QXHmMDKNg/LvyhMENC1E6JsDKTFtvabA",
+  "ParentRef": "AAo3amNqvU627QXHmMDKNg/57DPo7LsT0-SHkzbzvjMgw",
+  "Created": "2024-11-10T16:38:36.9202582Z",
+  "Updated": "2024-11-10T16:38:36.9202582Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

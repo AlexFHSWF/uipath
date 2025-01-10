@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="wrJ0PagcFkaOvn0efmZXvw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="duckduckgo.com" CVScreenId="524df209-e422-49bd-a118-2273dbf909ec" CvTextArea="707, 340, 46, 29" CvType="AnyWordGroup" DesignTimeRectangle="709, 331, 44, 49" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='display' tag='SPAN' type='' class='tile__display__main' /&gt;" Guid="625af408-9c28-4845-8ad6-4903af704921" ScopeSelectorArgument="&lt;html app='chrome.exe' title='calculator at DuckDuckGo' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="176, 300, 590, 100" FuzzySelectorArgument="&lt;webctrl type='' parentid='zci-calculator' tag='DIV' class='tile__display selected' aaname='                                                 ' check:innerText='10 * 0.35&amp;#xA;3.5&amp;#xA;Scientific&amp;#x9;Basic' /&gt;" Guid="8ab2a68e-e7ba-4de7-9a27-997dfc000492" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a1aab5d59ceaace03ffd014df8fed3c1.png" xmlns="">0g2g70vWEnUSkJxNVlhNyDw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

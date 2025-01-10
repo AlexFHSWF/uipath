@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Google Maps",
+  "Type": "App",
+  "Id": "Zu-aYut4akuqBrk7rj1BYw",
+  "Reference": "AAo3amNqvU627QXHmMDKNg/Zu-aYut4akuqBrk7rj1BYw",
+  "Created": "2024-11-07T19:02:44.6859558Z",
+  "Updated": "2024-11-07T19:02:44.6859558Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

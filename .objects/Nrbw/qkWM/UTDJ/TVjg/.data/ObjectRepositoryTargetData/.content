@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-hvaHZZFIUyc40t-XKZicA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="duckduckgo.com" CVScreenId="524df209-e422-49bd-a118-2273dbf909ec" CvElementArea="692, 599, 74, 50" CvType="Button" DesignTimeRectangle="692, 600, 74, 50" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='=' parentid='zci-calculator' tag='BUTTON' type='' class='tile__ctrl__btn tile__ctrl--important' check:innerText='=' /&gt;" Guid="0229e7be-d5fb-422a-8010-7896cf4ee969" ScopeSelectorArgument="&lt;html app='chrome.exe' title='calculator at DuckDuckGo' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f1817afa97ccd1592c0fddf9b8a1ae9e.png" xmlns="">0jfAOtEkexU-d0okheEl8Uw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="rD00DsKomEKJoDZisPpg4A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/111Q3cPZa5nPBCSaw9gkdhvBGSlSqJgBI5r9_CI4oVck/edit" CVScreenId="94407bb9-0eed-4ffe-a8b7-ccc0d217c31c" CvElementArea="720, 560, 245, 24" CvType="InputBox" DesignTimeRectangle="723, 569, 240, 14" DesignTimeScaleFactor="0.6666666865348816" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aria-label='Wann sind Sie gereist?(Datum)' aria-role='textbox' tag='DIV' type='' class='Mh5jwe JqSWld yqQS1' /&gt;" Guid="52663d13-bc4a-4c06-803b-6ad5c22a3bdd" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ReisekostenTest - Google Formulare' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="94407bb9-0eed-4ffe-a8b7-ccc0d217c31c" CvTextArea="722, 543, 147, 14" CvTextArgument="Wann sind Sie gereist?(Datum)" CvType="Text" DesignTimeRectangle="723, 542, 146, 16" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Wann sind Sie gereist?(Datum)' parentid='i5' tag='SPAN' type='' class='M7eMe' check:innerText='Wann sind Sie gereist?(Datum)' /&gt;" Guid="720b02bc-81ae-4c0f-9aea-c0ff8e90c1ee" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a3461b0e00beec10efd11a4f1382f4f5.png" xmlns="">0d7LX2rj-SU6raSUYx6VBJA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

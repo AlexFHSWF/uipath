@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="_73hJpfj-kiBfgjeQURyMQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="" CVScreenId="605241ed-3abc-4c9f-8293-33f0dd287aa6" CvTextArea="169, 442, 38, 10" CvTextArgument="Adresse:" CvType="Text" DesignTimeRectangle="169, 442, 38, 10" DesignTimeScaleFactor="1" ElementType="Text" Guid="7c841e2b-3cdb-4da3-a507-99047c7f57be" ScopeSelectorArgument="&lt;html app='msedge.exe' title='*Dienstreise_Reisekostenrechnung_ab_01-14.pdf' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a6622be060a486628df7ad3d6bacb724.png" xmlns="">0Gb6xMs25O0CvIjjXS9iK-A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

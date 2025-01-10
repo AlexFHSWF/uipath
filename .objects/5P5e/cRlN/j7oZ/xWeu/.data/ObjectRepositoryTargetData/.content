@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="J4aRIoWSJEeoUateqb6Dfw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/111Q3cPZa5nPBCSaw9gkdhvBGSlSqJgBI5r9_CI4oVck/edit" CVScreenId="94407bb9-0eed-4ffe-a8b7-ccc0d217c31c" CvTextArea="722, 297, 49, 10" CvType="AnyWordGroup" DesignTimeRectangle="723, 296, 240, 14" DesignTimeScaleFactor="0.6666666865348816" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aria-label='Wann wurde die Geschäftsreise genehmigt?' aria-role='textbox' tag='DIV' type='' class='Mh5jwe JqSWld yqQS1' /&gt;" Guid="04957b87-6581-4d62-9f60-c39d03153c21" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ReisekostenTest - Google Formulare' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="94407bb9-0eed-4ffe-a8b7-ccc0d217c31c" CvTextArea="722, 270, 209, 13" CvTextArgument="Wann wurde die Geschäftsreise genehmigt?" CvType="Text" DesignTimeRectangle="723, 269, 208, 16" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' isleaf='1' parentid='i5' tag='SPAN' class='M7eMe' aaname='Wann wurde die Geschäftsreise genehmigt?' check:innerText='Wann wurde die Geschäftsreise genehmigt?' /&gt;" Guid="6a98b77b-3638-4213-a96f-ea0b8ddb278c" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8e866e2e5330df60d27b3f472bf41e5a.png" xmlns="">0OIYrfBlAc0SmBtG7f6CxwQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

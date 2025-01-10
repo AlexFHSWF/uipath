@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LPX4IRlJwUWRXwwUbZncww" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.de/maps/place/58300+Wetter+(Ruhr)/@51.3783481,7.3103349,13z/data=!3m1!4b1!4m6!3m5!1s0x47b922b7fffd795b:0xf9aa931ff4501e9c!8m2!3d51.3860225!4d7.3914998!16zL20vMDh0azJ3" DesignTimeRectangle="129, 501, 18, 18" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='' tag='SPAN' type='' class='Cw1rxd google-symbols NhBTye G47vBd' check:innerText='' /&gt;" Guid="ea0808e6-543d-4c98-ac13-d9498397c7c6" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Wetter (Ruhr) - Google Maps' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ae7e4d79-9d35-4cdf-bc6f-83ff0c8c5692" CvTextArea="102, 535, 73, 14" CvTextArgument="Routenplaner" CvType="Text" DesignTimeRectangle="102, 486, 73, 64" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aria-label='Route nach Wetter (Ruhr)' tag='BUTTON' type='' class='g88MCb S9kvJb ' aaname='Routen­planer' check:innerText='&amp;#xA;Routen­planer' /&gt;" Guid="501fe5ab-34a5-400d-a127-a43f1a3e1efe" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="cc97df4e203278e61284997ec3b15fdb.png" xmlns="">0WQOoaxMgf0ipEEWDwMO4dg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

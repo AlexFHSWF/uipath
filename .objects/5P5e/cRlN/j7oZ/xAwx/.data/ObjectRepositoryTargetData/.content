@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="tBwvoI3FN0aou5OAqROJ4g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/111Q3cPZa5nPBCSaw9gkdhvBGSlSqJgBI5r9_CI4oVck/edit" CVScreenId="94407bb9-0eed-4ffe-a8b7-ccc0d217c31c" CvTextArea="722, 388, 44, 10" CvType="AnyWordGroup" DesignTimeRectangle="723, 387, 240, 14" DesignTimeScaleFactor="0.6666666865348816" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aria-label='Von wo aus sind Sie gestartet?' aria-role='textbox' tag='DIV' type='' class='Mh5jwe JqSWld yqQS1' /&gt;" Guid="10b0e122-b57f-4ef6-aff5-2c81a00e748d" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ReisekostenTest - Google Formulare' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="94407bb9-0eed-4ffe-a8b7-ccc0d217c31c" CvTextArea="722, 361, 147, 13" CvTextArgument="Von WO aus sind Sie gestartet?" CvType="Text" DesignTimeRectangle="723, 360, 146, 16" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Von wo aus sind Sie gestartet?' parentid='i5' tag='SPAN' type='' class='M7eMe' check:innerText='Von wo aus sind Sie gestartet?' /&gt;" Guid="d2c288a2-f4c7-49db-9a8e-c0e87e0c6d50" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f78e5fcdbc7c85368953d4ccc63a6dba.png" xmlns="">0CMq7mTgwnUu8LoUxIYix3A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

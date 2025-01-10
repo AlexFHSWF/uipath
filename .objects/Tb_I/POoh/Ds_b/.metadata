@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Dienstreise_Reisekostenrechnung_ab_01-14",
+  "Type": "Screen",
+  "Id": "Ds_bTJvZQkS3DVMnQhBxgg",
+  "Reference": "AAo3amNqvU627QXHmMDKNg/Ds_bTJvZQkS3DVMnQhBxgg",
+  "ParentRef": "AAo3amNqvU627QXHmMDKNg/POohz4nMQk23ddXdCOWuLg",
+  "Created": "2024-11-10T16:39:21.9430903Z",
+  "Updated": "2024-11-10T16:39:21.9430903Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
